@@ -346,6 +346,6 @@ model Product {
 
 ---
 
-## License
+## Explaination
 
-This project is licensed under the MIT License.
+Project explaination : https://drive.google.com/file/d/11MaCqElTnM3bOT7pl07pAbY9I5TPxy1Y/view?usp=sharing.
